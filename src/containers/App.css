@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'VT323-Regular';
+	src: local('VT323-Regular'), url('./VT323-Regular.ttf');
+}
+
+h1 {
+	font-family: 'VT323-Regular';
+	/*font-size: 4em;
+	margin: 10px 0px;*/
+}
